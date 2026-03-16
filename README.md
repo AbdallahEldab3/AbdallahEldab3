@@ -1,4 +1,3 @@
-Here’s a **simple, professional GitHub profile README** you can use. It highlights your current work, skills, and tools clearly without being over the top:
 
 ---
 
