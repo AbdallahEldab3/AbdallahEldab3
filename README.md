@@ -17,7 +17,7 @@
 
 ### Contact / Links
 
-* GitHub: [https://github.com/yourusername](https://github.com/AbdallahEldab3)
-* LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdallah-abdelrahman-1650382a3/)
+* GitHub: [https://github.com/AbdallahEldab3](https://github.com/AbdallahEldab3)
+* LinkedIn: [https://www.linkedin.com/in/abdallah-abdelrahman-1650382a3/](https://www.linkedin.com/in/abdallah-abdelrahman-1650382a3/)
 
 ---
