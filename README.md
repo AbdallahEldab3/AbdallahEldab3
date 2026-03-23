@@ -8,12 +8,13 @@
 * **AI & Generative Projects**:
   
   * Smart Traffic Management System (Traffic optimization, Wrong Parking, Wrong Way, Accident Detection)
+  * MotionGen-AI Diffusion Model
   * MotionForge generate human motion
 
 ### Tools & Technologies
 
 * **Programming:** Python, C, C++
-* **AI/ML:** YOLO, DeepSORT, OpenCV, PyTorch, TensorFlow, Temporal Models
+* **AI/ML:** YOLO, DeepSORT, OpenCV, PyTorch, TensorFlow, Temporal Models, GEN-AI, DeepLearning
 
 ### Contact / Links
 
