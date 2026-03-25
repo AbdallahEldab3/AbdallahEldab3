@@ -14,7 +14,7 @@
 ### Tools & Technologies
 
 * **Programming:** Python, C, C++
-* **AI/ML:** YOLO, DeepSORT, OpenCV, PyTorch, TensorFlow, Temporal Models, GEN-AI, DeepLearning
+* **AI/ML:** YOLO, DeepSORT, OpenCV, PyTorch, TensorFlow, Temporal Models, Diffiusion Models, GEN-AI, DeepLearning
 
 ### Contact / Links
 
